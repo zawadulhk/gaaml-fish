@@ -1,0 +1,5 @@
+{
+  "name": "GAAML - Investments Hub",
+  "description": "A platform to display stock metrics and valuations for Global Assurance Asset Management Limited. Users can add their own assumptions and growth rates to calculate the valuation of a stock and key financial ratios.",
+  "requestFramePermissions": []
+}
